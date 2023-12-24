@@ -1,0 +1,44 @@
+{
+  "tokenId": 64,
+  "name": "My NFT #64",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/64.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop_2"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweather Blue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Basket Ball"
+    }
+  ]
+}

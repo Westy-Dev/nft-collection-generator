@@ -1,0 +1,44 @@
+{
+  "tokenId": 43,
+  "name": "My NFT #43",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/43.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grumpy_EyeBags"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweather Blue Yellow Stripe"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Cool Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Soda"
+    }
+  ]
+}

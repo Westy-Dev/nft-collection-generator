@@ -1,0 +1,44 @@
+{
+  "tokenId": 40,
+  "name": "My NFT #40",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/40.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired_EyeBags"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Orange"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Potato"
+    }
+  ]
+}

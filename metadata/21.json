@@ -1,0 +1,44 @@
+{
+  "tokenId": 21,
+  "name": "My NFT #21",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/21.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Negative"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Green"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Sunglasses Orange"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana Gun"
+    }
+  ]
+}

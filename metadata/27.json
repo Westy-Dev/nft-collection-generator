@@ -1,0 +1,44 @@
+{
+  "tokenId": 27,
+  "name": "My NFT #27",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/27.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Leaves"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grumpy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Heather Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Cool Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Baseball Cap Back"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Switch"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "tokenId": 78,
+  "name": "My NFT #78",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/78.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut White"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana Gun"
+    }
+  ]
+}

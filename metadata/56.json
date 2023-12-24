@@ -1,0 +1,44 @@
+{
+  "tokenId": 56,
+  "name": "My NFT #56",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/56.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweather Blue Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Rounded Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Soda"
+    }
+  ]
+}

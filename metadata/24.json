@@ -1,0 +1,44 @@
+{
+  "tokenId": 24,
+  "name": "My NFT #24",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/24.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Green Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Beanie Purple"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Ice Cream"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "tokenId": 57,
+  "name": "My NFT #57",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/57.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Orange"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana Gun"
+    }
+  ]
+}

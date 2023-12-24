@@ -1,0 +1,44 @@
+{
+  "tokenId": 61,
+  "name": "My NFT #61",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/61.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Down Grey"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Sunglasses Blue"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Cyan"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Popsicle"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "tokenId": 97,
+  "name": "My NFT #97",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/97.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Up Grey Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Beanie Purple"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Coffee"
+    }
+  ]
+}

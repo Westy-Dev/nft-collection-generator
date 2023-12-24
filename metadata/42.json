@@ -1,0 +1,44 @@
+{
+  "tokenId": 42,
+  "name": "My NFT #42",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/42.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Leaves"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Heather Blue Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Square Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut White"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Boba"
+    }
+  ]
+}

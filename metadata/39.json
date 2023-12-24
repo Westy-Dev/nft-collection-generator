@@ -1,0 +1,44 @@
+{
+  "tokenId": 39,
+  "name": "My NFT #39",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/39.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grumpy_EyeBags"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Blue Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Square Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Gameboy"
+    }
+  ]
+}

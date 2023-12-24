@@ -1,0 +1,44 @@
+{
+  "tokenId": 1,
+  "name": "My NFT #1",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/1.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shouting"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Grey Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Baseball Cap Back"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Gameboy"
+    }
+  ]
+}

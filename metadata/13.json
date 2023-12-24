@@ -1,0 +1,44 @@
+{
+  "tokenId": 13,
+  "name": "My NFT #13",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/13.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Orange"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Popsicle"
+    }
+  ]
+}

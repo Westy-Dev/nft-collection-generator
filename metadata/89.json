@@ -1,0 +1,44 @@
+{
+  "tokenId": 89,
+  "name": "My NFT #89",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/89.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Negative"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Heather Red Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Square Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown Fire"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Gameboy"
+    }
+  ]
+}

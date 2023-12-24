@@ -1,0 +1,44 @@
+{
+  "tokenId": 7,
+  "name": "My NFT #7",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/7.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Orange Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses Orange"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut White"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Switch"
+    }
+  ]
+}

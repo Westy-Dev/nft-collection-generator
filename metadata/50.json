@@ -1,0 +1,44 @@
+{
+  "tokenId": 50,
+  "name": "My NFT #50",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/50.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy_Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Green"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Coffee No Lid"
+    }
+  ]
+}

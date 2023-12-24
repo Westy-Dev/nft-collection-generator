@@ -1,0 +1,44 @@
+{
+  "tokenId": 67,
+  "name": "My NFT #67",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/67.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cryiing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop_2"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Up Blue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Sunglasses Blue"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Cyan"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Ramen"
+    }
+  ]
+}

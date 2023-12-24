@@ -56,18 +56,10 @@ const createUniqueTraitsCombination = () => {
 
 const filterOptionsByConditions = (options, traits) => {
   return options.filter(({ allowed, forbidden }) => {
-    if (
-      allowed &&
-      allowed.length > 0 &&
-      !traits.some(({ value }) => allowed.includes(value))
-    ) {
+    if (allowed && allowed.length > 0 && !traits.some(({ value }) => allowed.includes(value))) {
       return false;
     }
-    if (
-      forbidden &&
-      forbidden.length > 0 &&
-      traits.some(({ value }) => forbidden.includes(value))
-    ) {
+    if (forbidden && forbidden.length > 0 && traits.some(({ value }) => forbidden.includes(value))) {
       return false;
     }
     return true;
@@ -77,10 +69,7 @@ const filterOptionsByConditions = (options, traits) => {
 const getRandomWeightedOption = (options) => {
   // Transform weights array into an accumulated weights array
   // for instance: [20, 30, 50] --> [20, 50, 100]
-  const accWeights = options.reduce(
-    (acc, { weight }, i) => acc.concat(weight + (acc[i - 1] || 0)),
-    []
-  );
+  const accWeights = options.reduce((acc, { weight }, i) => acc.concat(weight + (acc[i - 1] || 0)), []);
   // Select one of the options, based on a rand number
   const rand = Math.random() * accWeights[accWeights.length - 1];
   const index = accWeights.findIndex((accWeight) => rand < accWeight);
@@ -88,10 +77,7 @@ const getRandomWeightedOption = (options) => {
 };
 
 const hash = (object) => {
-  return crypto
-    .createHash("sha256")
-    .update(JSON.stringify(object))
-    .digest("hex");
+  return crypto.createHash("sha256").update(JSON.stringify(object)).digest("hex");
 };
 
 const generateTokensFiles = async (tokens) => {
@@ -101,9 +87,7 @@ const generateTokensFiles = async (tokens) => {
   for (let token of tokens) {
     generateTokenMetadata(token);
     await generateTokenImage(token);
-    process.stdout.write(
-      `Current progress: ${Math.round((token.tokenId / TOTAL_TOKENS) * 100)}%\r`
-    );
+    process.stdout.write(`Current progress: ${Math.round((token.tokenId / TOTAL_TOKENS) * 100)}%\r`);
   }
   process.stdout.write(`Current progress: 100%\r`);
 };
@@ -125,24 +109,18 @@ const generateTokenMetadata = ({ tokenId, traits }) => {
       value,
     })),
   };
-  writeFileSync(
-    `${DEFAULT_METADATA_PATH}${tokenId}`,
-    JSON.stringify(metadata, null, 2)
-  );
+  writeFileSync(`${DEFAULT_METADATA_PATH}${tokenId}.json`, JSON.stringify(metadata, null, 2));
 };
 
 const generateTokenImage = async ({ tokenId, traits }) => {
-  ctx.clearRect(0, 0, canvas.width,canvas.height)
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
   for (let { image } of traits) {
     if (image) {
       const layerImage = await loadImage(image);
       ctx.drawImage(layerImage, 0, 0);
     }
   }
-  writeFileSync(
-    `${DEFAULT_IMAGES_PATH}${tokenId}.png`,
-    canvas.toBuffer("image/png")
-  );
+  writeFileSync(`${DEFAULT_IMAGES_PATH}${tokenId}.png`, canvas.toBuffer("image/png"));
 };
 
 const printStats = (tokens) => {
@@ -153,10 +131,7 @@ const printStats = (tokens) => {
     const traitStats = options.map(({ value }) => {
       const count = tokens.filter(({ traits }) => {
         if (value) {
-          return traits.some(
-            (trait) =>
-              (type ? trait.type === type : true) && trait.value === value
-          );
+          return traits.some((trait) => (type ? trait.type === type : true) && trait.value === value);
         }
         return !traits.some((trait) => trait.type === type);
       }).length;

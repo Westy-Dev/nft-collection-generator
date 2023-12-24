@@ -1,0 +1,44 @@
+{
+  "tokenId": 54,
+  "name": "My NFT #54",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/54.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweather Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses Orange"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana"
+    }
+  ]
+}

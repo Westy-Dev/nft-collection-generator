@@ -1,0 +1,44 @@
+{
+  "tokenId": 36,
+  "name": "My NFT #36",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/36.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cryiing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tux"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Sunglasses Orange"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Cyan"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Switch"
+    }
+  ]
+}

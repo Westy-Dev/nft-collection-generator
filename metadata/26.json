@@ -1,0 +1,44 @@
+{
+  "tokenId": 26,
+  "name": "My NFT #26",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/26.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Up Blue Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Square Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Beanie Purple"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Gameboy"
+    }
+  ]
+}

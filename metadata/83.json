@@ -1,0 +1,44 @@
+{
+  "tokenId": 83,
+  "name": "My NFT #83",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/83.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Heather Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Beanie Purple"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Boba"
+    }
+  ]
+}

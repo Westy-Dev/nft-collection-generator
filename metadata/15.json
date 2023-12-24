@@ -1,0 +1,44 @@
+{
+  "tokenId": 15,
+  "name": "My NFT #15",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/15.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired_EyeBags"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubble_Gum"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweather Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Red Funk Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown Fire"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Boba"
+    }
+  ]
+}

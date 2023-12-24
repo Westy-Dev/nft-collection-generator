@@ -1,0 +1,44 @@
+{
+  "tokenId": 92,
+  "name": "My NFT #92",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/92.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grumpy_EyeBags"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Heather Blue Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Rounded Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Boba"
+    }
+  ]
+}

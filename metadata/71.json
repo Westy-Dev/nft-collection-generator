@@ -1,0 +1,44 @@
+{
+  "tokenId": 71,
+  "name": "My NFT #71",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/71.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Negative"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt White Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow Tie"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Ramen"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "tokenId": 60,
+  "name": "My NFT #60",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/60.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy_Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Up Grey Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Red Funk Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Foot Ball"
+    }
+  ]
+}

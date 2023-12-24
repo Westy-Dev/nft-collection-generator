@@ -1,0 +1,44 @@
+{
+  "tokenId": 93,
+  "name": "My NFT #93",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/93.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Up Blue Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Rounded Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Soda"
+    }
+  ]
+}

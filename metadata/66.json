@@ -1,0 +1,44 @@
+{
+  "tokenId": 66,
+  "name": "My NFT #66",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/66.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Heather Red Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Rounded Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Foot Ball"
+    }
+  ]
+}

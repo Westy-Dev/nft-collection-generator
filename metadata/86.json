@@ -1,0 +1,44 @@
+{
+  "tokenId": 86,
+  "name": "My NFT #86",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/86.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Leaves"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grumpy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pencil"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweather White Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses Orange"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Cyan"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Switch"
+    }
+  ]
+}

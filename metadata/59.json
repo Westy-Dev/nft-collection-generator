@@ -1,0 +1,44 @@
+{
+  "tokenId": 59,
+  "name": "My NFT #59",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/59.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cryiing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Up Grey"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Cool Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Curly Brown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Smore"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "tokenId": 48,
+  "name": "My NFT #48",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/48.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy_Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop_2"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweather White"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Curly Brown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Basket Ball"
+    }
+  ]
+}

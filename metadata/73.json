@@ -1,0 +1,44 @@
+{
+  "tokenId": 73,
+  "name": "My NFT #73",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/73.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy_Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Zipper Shirt"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Red Funk Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Construction Helmet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow Tie"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Coffee No Lid"
+    }
+  ]
+}

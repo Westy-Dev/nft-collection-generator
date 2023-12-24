@@ -1,0 +1,44 @@
+{
+  "tokenId": 16,
+  "name": "My NFT #16",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/16.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy_Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Up Grey Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Boba"
+    }
+  ]
+}

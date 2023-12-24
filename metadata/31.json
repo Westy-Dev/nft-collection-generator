@@ -1,0 +1,44 @@
+{
+  "tokenId": 31,
+  "name": "My NFT #31",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/31.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache_Small"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Green"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Baseball Cap Back"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow Tie"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Switch"
+    }
+  ]
+}

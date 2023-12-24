@@ -1,0 +1,44 @@
+{
+  "tokenId": 28,
+  "name": "My NFT #28",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/28.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache_Small"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Green Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Cool Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Smore"
+    }
+  ]
+}

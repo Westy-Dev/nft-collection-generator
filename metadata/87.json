@@ -1,0 +1,44 @@
+{
+  "tokenId": 87,
+  "name": "My NFT #87",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/87.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired_EyeBags"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Orange"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown Fire"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Coffee"
+    }
+  ]
+}

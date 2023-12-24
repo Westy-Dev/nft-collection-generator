@@ -1,0 +1,44 @@
+{
+  "tokenId": 33,
+  "name": "My NFT #33",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/33.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Down Grey"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Square Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana"
+    }
+  ]
+}

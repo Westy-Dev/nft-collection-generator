@@ -1,0 +1,44 @@
+{
+  "tokenId": 6,
+  "name": "My NFT #6",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/6.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Leaves"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy_Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Heather Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Switch"
+    }
+  ]
+}

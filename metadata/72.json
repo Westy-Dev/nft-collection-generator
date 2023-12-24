@@ -1,0 +1,44 @@
+{
+  "tokenId": 72,
+  "name": "My NFT #72",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/72.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweather Blue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Red Funk Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Beanie Purple"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana Gun"
+    }
+  ]
+}

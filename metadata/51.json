@@ -1,0 +1,44 @@
+{
+  "tokenId": 51,
+  "name": "My NFT #51",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/51.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired_EyeBags"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Down Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Cool Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow Tie"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Fries"
+    }
+  ]
+}

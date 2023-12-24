@@ -1,0 +1,44 @@
+{
+  "tokenId": 14,
+  "name": "My NFT #14",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/14.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cryiing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop_2"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Down Blue Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Sunglasses Blue"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Beanie Purple"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana"
+    }
+  ]
+}

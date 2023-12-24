@@ -1,0 +1,44 @@
+{
+  "tokenId": 35,
+  "name": "My NFT #35",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/35.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grumpy"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Down Blue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Beanie Purple"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Coffee No Lid"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "tokenId": 45,
+  "name": "My NFT #45",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/45.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy_Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Heather Red Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses Orange"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Baseball Cap Back"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Popsicle"
+    }
+  ]
+}

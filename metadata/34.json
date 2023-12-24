@@ -1,0 +1,44 @@
+{
+  "tokenId": 34,
+  "name": "My NFT #34",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/34.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grumpy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubble_Gum"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Down Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Sunglasses Blue"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow Tie"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Potato"
+    }
+  ]
+}

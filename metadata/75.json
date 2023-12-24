@@ -1,0 +1,44 @@
+{
+  "tokenId": 75,
+  "name": "My NFT #75",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/75.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Pickle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cryiing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Holiday Shirt Blue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Red Funk Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Baseball Cap Back"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Coffee"
+    }
+  ]
+}

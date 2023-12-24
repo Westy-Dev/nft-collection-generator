@@ -1,0 +1,44 @@
+{
+  "tokenId": 30,
+  "name": "My NFT #30",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/30.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Orange Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut White"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Coffee"
+    }
+  ]
+}

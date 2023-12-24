@@ -1,0 +1,44 @@
+{
+  "tokenId": 58,
+  "name": "My NFT #58",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/58.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Up Blue Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Square Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown Fire"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Boba"
+    }
+  ]
+}

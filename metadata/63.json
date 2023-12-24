@@ -1,0 +1,44 @@
+{
+  "tokenId": 63,
+  "name": "My NFT #63",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/63.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Leaves"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Orange"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Cool Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Beanie Blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana Gun"
+    }
+  ]
+}

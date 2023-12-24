@@ -1,0 +1,44 @@
+{
+  "tokenId": 53,
+  "name": "My NFT #53",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/53.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweather Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Sunglasses Orange"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Beanie Blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Ramen"
+    }
+  ]
+}

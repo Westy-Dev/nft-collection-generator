@@ -1,0 +1,44 @@
+{
+  "tokenId": 85,
+  "name": "My NFT #85",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/85.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Down Red Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Sunglasses Orange"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Cyan"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana Gun"
+    }
+  ]
+}

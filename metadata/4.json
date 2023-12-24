@@ -1,0 +1,44 @@
+{
+  "tokenId": 4,
+  "name": "My NFT #4",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/4.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cryiing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Down Grey"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses Orange"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut White"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow Tie"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Potato"
+    }
+  ]
+}

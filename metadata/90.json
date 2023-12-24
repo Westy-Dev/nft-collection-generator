@@ -1,0 +1,44 @@
+{
+  "tokenId": 90,
+  "name": "My NFT #90",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/90.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Pickle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grumpy_EyeBags"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shouting"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Orange Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Sunglasses Blue"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana"
+    }
+  ]
+}

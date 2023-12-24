@@ -1,0 +1,44 @@
+{
+  "tokenId": 9,
+  "name": "My NFT #9",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/9.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grumpy_EyeBags"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Up Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Sunglasses Blue"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow Tie"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Foot Ball"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "tokenId": 37,
+  "name": "My NFT #37",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/37.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lolipop_2"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Green"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Funk Glasses White"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Soda"
+    }
+  ]
+}

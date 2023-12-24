@@ -1,0 +1,44 @@
+{
+  "tokenId": 3,
+  "name": "My NFT #3",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/3.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Galaxy Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Down Red Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Rounded Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Smore"
+    }
+  ]
+}

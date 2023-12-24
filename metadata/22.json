@@ -1,0 +1,44 @@
+{
+  "tokenId": 22,
+  "name": "My NFT #22",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/22.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Pickle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grumpy_EyeBags"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweather Blue Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Rounded Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow Tie"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Smore"
+    }
+  ]
+}

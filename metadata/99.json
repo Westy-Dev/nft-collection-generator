@@ -1,0 +1,44 @@
+{
+  "tokenId": 99,
+  "name": "My NFT #99",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/99.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grumpy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shouting"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vest Shirt"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Square Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown Fire"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Tie Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Basket Ball"
+    }
+  ]
+}

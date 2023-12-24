@@ -1,0 +1,44 @@
+{
+  "tokenId": 98,
+  "name": "My NFT #98",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/98.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy_Closed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Heather Red Deco"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Red Funk Glasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown Fire"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Scarf Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Switch"
+    }
+  ]
+}

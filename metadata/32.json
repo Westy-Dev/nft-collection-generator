@@ -1,0 +1,44 @@
+{
+  "tokenId": 32,
+  "name": "My NFT #32",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/32.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Spots"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Grumpy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie Down Grey"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Cool Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Astronaut Orange"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Head Phones"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Banana Gun"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "tokenId": 20,
+  "name": "My NFT #20",
+  "description": "My NFT description.",
+  "image": "https://base-uri-to-my-nft-images.com/20.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Happy_Open"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TShirt Purple"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Crown Dark"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Bow Tie"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Popsicle"
+    }
+  ]
+}
